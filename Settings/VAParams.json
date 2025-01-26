@@ -3,7 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.041.37",
-	"КаталогФич": "C:\\Users\\79268\\Documents\\GitHub\\TestQA",
+	"КаталогФич": "C:\\Users\\79268\\Documents\\GitHub\\TestQA\\Features_IRP\\External\\Экспорт документов закупок.feature",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -129,7 +129,8 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"C:\\Users\\79268\\Downloads\\vanessa-automation.1.2.041.37\\vanessa-automation\\features\\Libraries",
-		"C:\\Users\\79268\\Documents\\GitHub\\TestQA\\Features\\External"
+		"C:\\Users\\79268\\Documents\\GitHub\\TestQA\\Features\\External",
+		"C:\\Users\\79268\\Documents\\GitHub\\TestQA\\Features_IRP\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
